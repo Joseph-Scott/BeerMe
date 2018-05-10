@@ -76,3 +76,18 @@ Beer information from:
 www.beeradvocate.com
 
 
+
+------------------------------------------------------------------------------------------
+
+
+Acknowledgements:
+
+- The thriving Atlanta craft beer industry
+
+- Adam, our fearless leader and imparter of front-end development knowledge
+
+- The dude who created the unofficial BeerAdvocate API
+
+- (Craft) beer
+
+
