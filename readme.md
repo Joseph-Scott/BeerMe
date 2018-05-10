@@ -26,4 +26,5 @@ Usage:
 1. From the landing page, users can click on Login or Sign up to log into an existing 
 BeerMe account or create a new one:
 
-
+![image]
+(https://user-images.githubusercontent.com/37248298/39875389-87ff2afe-543e-11e8-976a-be6edcc2233f.png)
