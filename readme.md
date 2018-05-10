@@ -14,12 +14,16 @@ to find the location of the brewery where it was made. Enjoy!
 
 Installation:
 
-Files for our project can be found at 
+Files for installing or hosting our project (with permission) can be found at:
 
+https://github.com/Joseph-Scott/BeerMe
 
-
+-------------------------------------------------------------------------------------------
 
 
 Usage:
+
+1. From the landing page, users can click on Login or Sign up to log into an existing 
+BeerMe account or create a new one:
 
 
