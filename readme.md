@@ -50,5 +50,29 @@ the breweries where the beer you're looking for can be found.
 
 Credits:
 
+- Contributors: 
+
+Brendan Carrasquillo
+https://github.com/brendonwanderlust
+
+Alex Anderson
+https://github.com/abanderson
+
+Joe Scott
+https://github.com/Joseph-Scott
+
+
+- APIs Used:
+
+Google Maps API:
+https://developers.google.com/maps/documentation/javascript/tutorial
+
+Unofficial BeerAdvocate API:
+
+https://www.npmjs.com/package/beeradvocate-api
+
+Beer information from:
+
+www.beeradvocate.com
 
 
